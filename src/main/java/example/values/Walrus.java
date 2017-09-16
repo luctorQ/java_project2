@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class Walrus {
-
+ddd
 	private Set<WalrusFood> stomach = new HashSet<WalrusFood>();
 
 	public Boolean hasEaten(WalrusFood food) {
